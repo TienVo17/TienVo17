@@ -1,19 +1,62 @@
-# 💫About Me :
-👨‍💻 Võ Văn Tiến | Fresher IT (Java Developer)
-Tôi là một Fresher IT với đam mê lớn dành cho lập trình Java. Đã có nền tảng vững chắc về lập trình hướng đối tượng và kỹ thuật back-end, tôi không ngừng học hỏi và phát triển các ứng dụng Java hiệu quả. Mong muốn tham gia vào môi trường năng động, tôi sẵn sàng đối mặt với thách thức để nâng cao kỹ năng và đóng góp giá trị cho dự án.
-🔧 Kỹ năng chính: Java, OOP, Spring Boot, SQL 
-📚 Mục tiêu: Trở thành Java Developer chuyên nghiệp, tạo ra những sản phẩm chất lượng và tối ưu cho doanh nghiệp.
+# 🚀 Võ Văn Tiến | Backend .NET Developer
 
-## 🌐Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/tienvovan917) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/tiến-võ-5648292b7/) 
-<p align="center" color="#000000"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&center=true&vCenter=true&width=600&height=52&lines=I'm+V%C3%B5+V%C4%83n+Ti%E1%BA%BFn" alt="Typing SVG"  /></p>
+## 👨‍💻 About Me
+I am a Junior Backend .NET Developer with hands-on experience working on real-world systems.  
+I specialize in building RESTful APIs, handling business logic, and working with SQL Server databases.
 
-# 💻Tech Stack
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=TienVo17&theme=flag-india&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=TienVo17&theme=flag-india&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TienVo17&theme=flag-india&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+- Strong foundation in C#, OOP, ASP.NET Core  
+- Experience with enterprise systems and real projects  
+- Passionate about building clean, scalable, and maintainable backend systems  
+- Continuously improving backend architecture and performance optimization  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=TienVo17&icon=9&color=10)](https://visitcount.itsvg.in)
+
+## 🛠 Tech Stack
+
+### 🔹 Backend
+- C#  
+- .NET / ASP.NET Core (Web API, MVC)  
+- Entity Framework Core (EF Core)  
+- RESTful API Development  
+
+### 🔹 Database
+- SQL Server  
+- MySQL  
+
+### 🔹 Frontend (Basic)
+- HTML5  
+- CSS3  
+- JavaScript  
+
+### 🔹 Tools & Others
+- Git (GitHub / GitLab)  
+- Postman (API testing)  
+- Swagger  
+- Docker (basic)  
+
+---
+
+## 💼 Experience Highlights
+
+### 🔹 ESCORE System (Enterprise Project)
+- Maintained and enhanced enterprise system for Energy Solutions (Japan)  
+- Optimized SQL Server queries and stored procedures  
+- Implemented business logic and participated in system design  
+- Wrote unit tests and technical documentation (Japanese)  
+
+### 🔹 NIPPO – Business Daily Report Management System
+- Updated frontend UI based on new design requirements using jQuery, AJAX/PJAX  
+- Improved system usability and responsiveness  
+- Wrote and executed test cases to ensure system quality  
+
+---
+
+## 📊 GitHub Stats
+- GitHub: https://github.com/TienVo17  
+
+---
+
+## 🌐 Connect With Me
+- 📧 Email: tienvovan917@gmail.com  
+- 🔗 LinkedIn: https://linkedin.com/in/tiến-võ-5648292b7/  
+- 📘 Facebook: https://facebook.com/tienvovan917  
