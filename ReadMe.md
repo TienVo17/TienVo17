@@ -25,7 +25,7 @@
 
 - Sinh sống tại TP. Hồ Chí Minh, Việt Nam.
 - Hiện đang học tại Trường Đại học Công nghệ Sài Gòn.
-- Đang thực hiện dự án [Ecomer](http://myapp.com).
+- Đang thực hiện dự án [Ecomer](https://book-fe-gray.vercel.app/).
 - Liên hệ: [tienvovan917@gmail.com](mailto:tienvovan917@gmail.com).
 
 ## Kinh nghiệm làm việc
