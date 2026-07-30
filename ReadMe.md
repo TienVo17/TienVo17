@@ -1,18 +1,18 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="34" alt="Lời chào" />
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="34" alt="Hello" />
 
   <h1>Xin chào, mình là Võ Văn Tiến</h1>
-  <h3>Java Developer</h3>
+  <h3>Backend Developer & ERP Support</h3>
 
   <p>
-    Xây dựng ứng dụng web với Java, Spring Boot và các công nghệ hiện đại.
+    Phát triển ứng dụng Back-end với C#, ASP.NET Core, RESTful API và SQL Server.
   </p>
 
   <a href="https://tienvo.vercel.app/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Portfolio-0891B2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-512BD4?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:tienvovan917@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0891B2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-512BD4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/tienvo17" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -24,7 +24,7 @@
 ## Giới thiệu
 
 - Sinh sống tại TP. Hồ Chí Minh, Việt Nam.
-- Hiện đang học tại Trường Đại học Công nghệ Sài Gòn.
+- Đã tốt nghiệp tại Trường Đại học Công nghệ Sài Gòn.
 - Đang thực hiện dự án [Ecomer](https://book-fe-gray.vercel.app/).
 - Liên hệ: [tienvovan917@gmail.com](mailto:tienvovan917@gmail.com).
 
@@ -32,31 +32,52 @@
 
 | Thời gian | Công ty |
 | :-- | :-- |
-| 06/2026 - Hiện tại | **GLORY V.T** |
-| 10/2024 - 05/2026 | **KATSURA VN** |
-
+| 05/2026 - Hiện tại | **GLORY V.T** | ERP Implementation & Support Staff |
+| 05/2024 - 04/2026 | **KATSURA VIETNAM JOINT STOCK COMPANY** | Backend Developer |
+| 01/2024 - 04/2024 | **R2S COMPANY** | Intern Backend Developer |
 ## Kỹ năng
 
 ### Back-end
 
 <p align="center">
-  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="42" height="42" alt="Java" title="Java" /></a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/spring-boot-colored.svg" width="42" height="42" alt="Spring Boot" title="Spring Boot" /></a>
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="42" height="42" alt="Node.js" title="Node.js" /></a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="42" height="42" alt="FastAPI" title="FastAPI" /></a>
-  <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="42" height="42" alt="GraphQL" title="GraphQL" /></a>
+  <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="42" height="42" alt="C#" title="C#" />
+  </a>
+  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="42" height="42" alt=".NET" title=".NET" />
+  </a>
+  <a href="https://learn.microsoft.com/aspnet/core/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="42" height="42" alt="ASP.NET Core" title="ASP.NET Core" />
+  </a>
+  <a href="https://learn.microsoft.com/ef/core/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=.net&logoColor=white" height="42" alt="Entity Framework Core" title="Entity Framework Core" />
+  </a>
+  <a href="https://learn.microsoft.com/aspnet/core/web-api/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/RESTful_API-02569B?style=flat-square&logo=swagger&logoColor=white" height="42" alt="RESTful API" title="RESTful API" />
+  </a>
 </p>
 
 ### Front-end
 
 <p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="42" height="42" alt="JavaScript" title="JavaScript" /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="42" height="42" alt="TypeScript" title="TypeScript" /></a>
-  <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="42" height="42" alt="React" title="React" /></a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="42" height="42" alt="Next.js" title="Next.js" /></a>
-  <a href="https://angular.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="42" height="42" alt="Angular" title="Angular" /></a>
-  <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="42" height="42" alt="Redux" title="Redux" /></a>
-  <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="42" height="42" alt="jQuery" title="jQuery" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="42" height="42" alt="JavaScript" title="JavaScript" />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="42" height="42" alt="TypeScript" title="TypeScript" />
+  </a>
+  <a href="https://angular.dev/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="42" height="42" alt="Angular" title="Angular" />
+  </a>
+  <a href="https://react.dev/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="42" height="42" alt="React" title="React" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="42" height="42" alt="HTML5" title="HTML5" />
+  </a>
+  <a href="https://www.w3.org/TR/CSS/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="42" height="42" alt="CSS3" title="CSS3" />
+  </a>
 </p>
 
 ### UI và Styling
@@ -67,18 +88,21 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="42" height="42" alt="Tailwind CSS" title="Tailwind CSS" /></a>
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="42" height="42" alt="Bootstrap" title="Bootstrap" /></a>
   <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="42" height="42" alt="Material UI" title="Material UI" /></a>
-  <a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/shadcnui-colored-dark.svg" width="42" height="42" alt="shadcn/ui" title="shadcn/ui" /></a>
   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="42" height="42" alt="Sass" title="Sass" /></a>
 </p>
 
 ### Cơ sở dữ liệu và Cloud
 
 <p align="center">
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="42" height="42" alt="MySQL" title="MySQL" /></a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="42" height="42" alt="PostgreSQL" title="PostgreSQL" /></a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="42" height="42" alt="MongoDB" title="MongoDB" /></a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="42" height="42" alt="Firebase" title="Firebase" /></a>
-  <a href="https://supabase.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="42" height="42" alt="Supabase" title="Supabase" /></a>
+  <a href="https://www.microsoft.com/sql-server/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="42" height="42" alt="SQL Server" title="SQL Server" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="42" height="42" alt="MySQL" title="MySQL" />
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="42" height="42" alt="PostgreSQL" title="PostgreSQL" />
+  </a>
 </p>
 
 ### Công cụ và DevOps
@@ -93,11 +117,7 @@
 </p>
 
 ## Thống kê GitHub
-
 <div align="center">
-  <a href="https://github.com/tienvo17">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=tienvo17&show_icons=true&hide_border=true&title_color=0891B2&icon_color=0891B2&text_color=FFFFFF&bg_color=1C1917" alt="Thống kê GitHub của Võ Văn Tiến" />
-  </a>
   <a href="https://github.com/tienvo17">
     <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=tienvo17&stroke=FFFFFF&background=1C1917&ring=0891B2&fire=0891B2&currStreakNum=FFFFFF&currStreakLabel=0891B2&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&hide_border=true" alt="GitHub Streak" />
   </a>
