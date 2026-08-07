@@ -14,7 +14,7 @@
     và cơ sở dữ liệu PostgreSQL / MySQL.
   </p>
 
-  <a href="https://tienvo.vercel.app/" target="_blank" rel="noreferrer">
+  <a href="https://tienvo-java.vercel.app/" target="_blank" rel="noreferrer">
     <img
       src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"
       alt="Portfolio"
@@ -309,8 +309,8 @@ Full-stack e-commerce application được xây dựng với **Java Spring Boot*
 `Docker`
 `React`
 `TypeScript`
-
-### 🌐 Live Demo
+ 
+### 🌐 Live Demo ( Account demo => Tài khoản : Tien , Mật Khẩu : 123456 )
 
 👉 [tienvo17.vercel.app](https://tienvo17.vercel.app/)
 
